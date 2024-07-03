@@ -1,0 +1,5 @@
+MW3 UNLOCK ALL,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/MWIII_UA_UNBRANDED_V3.7.exe
+MW3 SILENT CHAIR,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/u237cgatAh2.exe
+MW3 NOVA CHAIR,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/ox20_nova_chair_generic_cheat.exe
+MW3 AIO,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/MWIII_AIO_UNBRANDED_V3.6.exe
+SPOOFER BLOCKER,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/Privacy_Protector.exe
